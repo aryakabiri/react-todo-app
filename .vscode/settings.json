@@ -1,0 +1,7 @@
+{
+    "emmet.syntaxProfiles": {},
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.tabSize": 2
+}
